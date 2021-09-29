@@ -1,6 +1,3 @@
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3260560.svg)](https://doi.org/10.5281/zenodo.3260560)
-
 # Qiime2 Metabarcoding Lesson
 
 Lesson for Qiime2: https://aaronejaime.github.io/Qiime2-metabarcoding/
