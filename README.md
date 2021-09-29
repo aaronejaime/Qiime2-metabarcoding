@@ -1,3 +1,12 @@
+## Qiime2-metabarcoding
+
+Lesson for Qiime2: https://aaronejaime.github.io/Qiime2-metabarcoding/
+It is part of the Metabarcoding Workshop: https://nselem.github.io/metabacording-workshop/
+
+
+
+
+
 [![Website Check Status](https://github.com/carpentries/lesson-example/workflows/Website/badge.svg)](https://github.com/carpentries/lesson-example/actions/workflows/website.yml?query=workflow%3AWebsite)
 
 lesson-example
