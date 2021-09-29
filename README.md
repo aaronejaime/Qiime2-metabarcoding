@@ -14,4 +14,4 @@ All participants should agree to abide by the [Data Carpentry Code of Conduct](h
 
 ## Authors
 
-R Metabarcoding is authored and maintained by the [community](https://github.com/aaronejaime/Qiime2-metabarcoding/network/members). 
+Qiime2 Metabarcoding is authored and maintained by the [community](https://github.com/aaronejaime/Qiime2-metabarcoding/network/members). 
